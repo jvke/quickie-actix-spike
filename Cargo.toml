@@ -1,0 +1,7 @@
+[package]
+name = "quickie"
+version = "0.1.0"
+authors = ["jvke <hi@jvke.co>"]
+edition = "2018"
+
+[dependencies]
